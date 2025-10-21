@@ -1,16 +1,16 @@
 # Performance Numbers on main branch
 # Jun 1 - Oct 20 2025
 # MATS
-Total:      1611
-Successes:  1385
-Failures:   221
-Cancelled:  5
+Total:      805
+Successes:  665
+Failures:   136
+Cancelled:  4
 
 # XTS
-Total:      2286
-Successes:  448
-Failures:   240
-Cancelled:  1585
+Total:      1034
+Successes:  150
+Failures:   178
+Cancelled:  693
 
 # SDPT
 Total:      92
