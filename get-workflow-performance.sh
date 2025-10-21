@@ -2,7 +2,7 @@
 
 # Get performance numbers for the workflow
 # Update this number for various workflows
-WORKFLOW_ID=179135846
+WORKFLOW_ID=120306278
 REPO="hiero-ledger/hiero-consensus-node"
 START_DATE="2025-06-01"
 END_DATE="2025-10-20"
