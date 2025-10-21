@@ -12,4 +12,4 @@ Finally rename the `runs.csv` to `mats_runs.csv` or similar if you'd like to kee
 
 ## Notes
 
-- Work from June 2nd, when MATS and XTS were updated.
+- Work from June 1st, when MATS and XTS were updated.
